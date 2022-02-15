@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 0d691fff-ab8a-e61c-6bd5-7f176a974aa4
 ---
@@ -17,7 +20,7 @@ Required Readings - Statistics
 
 Box, G. E. P., and P. Y. T. Liu. "Statistics as a Catalyst to Learning by Scientific Method Part I - An Example." _Journal of Quality Technology_ 31, no. 1 (1999): 1-15.
 
-Efron, B. "Bayesians, Frequentists, and Scientists." 2004. ([PDF](http://www-stat.stanford.edu/~ckirby/brad/papers/2005BayesFreqSci.pdf))#
+Efron, B. "Bayesians, Frequentists, and Scientists." 2004. ([PDF](http://www-stat.stanford.edu/~ckirby/brad/papers/2005BayesFreqSci.pdf)){{< sup "#" >}}
 
 Fisher, Sir Ronald A. "Scientific Thought and the Refinement of Human Reasoning." _Journal of the Operations Research Society of Japan_ 3 (1960): 1-10.
 

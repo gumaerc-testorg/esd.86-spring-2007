@@ -4,8 +4,13 @@ description: 'This resource contains an example of student work: a contest winne
   for "worst use, misuse or abuse of statistics and probabilistic reasoning in the
   media." Original article: Drew, Christopher. "Lower Voter Turnout is Seen in States
   that Require ID." New York Times, February 21, 2007.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/6b57da884c269b9d666a046ba9543285_abuses5.pdf
+file: /media/courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/6b57da884c269b9d666a046ba9543285_abuses5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: abuses5.pdf
 uid: 6b57da88-4c26-9b9d-666a-046ba9543285

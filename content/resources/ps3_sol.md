@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains solutions to a problem set.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/c23c9b90693957b6eb12c742c947e6f3_ps3_sol.pdf
+file: /media/courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/c23c9b90693957b6eb12c742c947e6f3_ps3_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps3_sol.pdf
 uid: c23c9b90-6939-57b6-eb12-c742c947e6f3
