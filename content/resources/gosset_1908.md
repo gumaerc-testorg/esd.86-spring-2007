@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 0d691fff-ab8a-e61c-6bd5-7f176a974aa4
 resourcetype: Document
 title: gosset_1908.pdf
 uid: 1dabbcb2-c2fa-46e6-7fb3-655a35ec11fc

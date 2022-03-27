@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 57208e81-2172-38ef-78d6-1bc4e00fb251
 resourcetype: Other
 title: normal_prob.xls
 uid: bfd81bf0-9c6a-9eda-36fc-d982dfeed6c1

@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7c33bcf1-cdaa-ce25-416c-410a3e692ba1
 resourcetype: Document
 title: abuses5.pdf
 uid: 6b57da88-4c26-9b9d-666a-046ba9543285

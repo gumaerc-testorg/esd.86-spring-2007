@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: c5bfc032-00bd-3507-bf9c-ba6de01785bc
 resourcetype: Document
 title: exam2_review.pdf
 uid: c26e72a4-1029-637b-1058-b6b18dc30e54

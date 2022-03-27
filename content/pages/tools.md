@@ -27,7 +27,7 @@ DESCRIPTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Weird country ([M](/courses/engineering-systems-division/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/tools/weird_country3.m))
+Weird country ([M]({{< baseurl >}}/resources/weird_country3))
 {{< tdclose >}}
 {{< tdopen >}}
 A simulation of the Weird country, in which people giving birth stop when they have their first girl
@@ -36,7 +36,7 @@ A simulation of the Weird country, in which people giving birth stop when they h
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Boston subway interview ([M](/courses/engineering-systems-division/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/tools/subway_interviews.m))
+Boston subway interview ([M]({{< baseurl >}}/resources/subway_interviews))
 {{< tdclose >}}
 {{< tdopen >}}
 A simulation of the process of waiting to interview a republican at a Boston subway stop
@@ -45,7 +45,7 @@ A simulation of the process of waiting to interview a republican at a Boston sub
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Function of a random variable ([M](/courses/engineering-systems-division/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/tools/func_rand_var.m))
+Function of a random variable ([M]({{< baseurl >}}/resources/func_rand_var))
 {{< tdclose >}}
 {{< tdopen >}}
 Illustrates how a function of a random variable might behave

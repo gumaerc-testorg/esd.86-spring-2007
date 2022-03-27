@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 57208e81-2172-38ef-78d6-1bc4e00fb251
 resourcetype: Other
 title: weibull_steel.xls
 uid: c8ac6125-0ae9-6509-ee40-a2da81dae2c6

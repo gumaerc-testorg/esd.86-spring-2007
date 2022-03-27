@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: bdb3a418-64df-1234-9372-0fbfe7d99544
 resourcetype: Document
 title: rec2.pdf
 uid: dde52bf2-f00d-89d3-49f3-9df561bbc4c7

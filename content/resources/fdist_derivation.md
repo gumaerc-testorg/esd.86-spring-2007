@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 57208e81-2172-38ef-78d6-1bc4e00fb251
 resourcetype: Document
 title: fdist_derivation.pdf
 uid: 025b6f8a-95ea-f9fb-cd24-62fa28249890
