@@ -11,6 +11,7 @@ image_metadata:
   image-alt: Photo of many cars at night stuck on a highway in Bangkok.
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: esd-86s07-th.jpg
 uid: 02269d0b-9c57-1d9d-b961-40d502d30986

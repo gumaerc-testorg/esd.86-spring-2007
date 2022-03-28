@@ -3,11 +3,12 @@ content_type: page
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
+parent_uid: null
 title: Tools
 uid: 57208e81-2172-38ef-78d6-1bc4e00fb251
 ---
 
-Derivation of F dist ([PDF]({{< baseurl >}}/resources/fdist_derivation))
+Derivation of F dist ({{< resource_link 025b6f8a-95ea-f9fb-cd24-62fa28249890 "PDF" >}})
 
 MATLAB® Files
 -------------
@@ -27,7 +28,7 @@ DESCRIPTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Weird country ([M]({{< baseurl >}}/resources/weird_country3))
+Weird country ([M](/courses/engineering-systems-division/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/tools/weird_country3.m))
 {{< tdclose >}}
 {{< tdopen >}}
 A simulation of the Weird country, in which people giving birth stop when they have their first girl
@@ -36,7 +37,7 @@ A simulation of the Weird country, in which people giving birth stop when they h
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Boston subway interview ([M]({{< baseurl >}}/resources/subway_interviews))
+Boston subway interview ([M](/courses/engineering-systems-division/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/tools/subway_interviews.m))
 {{< tdclose >}}
 {{< tdopen >}}
 A simulation of the process of waiting to interview a republican at a Boston subway stop
@@ -45,7 +46,7 @@ A simulation of the process of waiting to interview a republican at a Boston sub
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Function of a random variable ([M]({{< baseurl >}}/resources/func_rand_var))
+Function of a random variable ([M](/courses/engineering-systems-division/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/tools/func_rand_var.m))
 {{< tdclose >}}
 {{< tdopen >}}
 Illustrates how a function of a random variable might behave
@@ -73,7 +74,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Normal probability tool ([XLS]({{< baseurl >}}/resources/normal_prob))
+Normal probability tool ({{< resource_link bfd81bf0-9c6a-9eda-36fc-d982dfeed6c1 "XLS" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 Creates normally distributed samples and makes normal probability plots
@@ -82,7 +83,7 @@ Creates normally distributed samples and makes normal probability plots
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Recreating Weibull's plot for Bofors steel ([XLS]({{< baseurl >}}/resources/weibull_steel))
+Recreating Weibull's plot for Bofors steel ({{< resource_link c8ac6125-0ae9-6509-ee40-a2da81dae2c6 "XLS" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 Attempt to recreate Figure 1 in Weibull, Waloddi. "A Statistical Distribution Function of Wide Applicability." _Journal of Applied Mechanics_ 18, no. 3 (1951): 293-297.
