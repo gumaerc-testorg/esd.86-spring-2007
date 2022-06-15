@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/02269d0b9c571d9db96140d502d30986_esd-86s07-th.jpg
+file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/02269d0b9c571d9db96140d502d30986_esd-86s07-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Sitting in traffic may be a fact of life in Bangkok and many other cities,
@@ -11,8 +11,13 @@ image_metadata:
   image-alt: Photo of many cars at night stuck on a highway in Bangkok.
 learning_resource_types: []
 ocw_type: OCWImage
-parent_uid: null
 resourcetype: Image
 title: esd-86s07-th.jpg
 uid: 02269d0b-9c57-1d9d-b961-40d502d30986
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+New image Upload
+

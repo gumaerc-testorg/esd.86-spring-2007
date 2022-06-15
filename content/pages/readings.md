@@ -1,11 +1,16 @@
 ---
 content_type: page
+description: This section provides information about recommended readings for the
+  course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: 0d691fff-ab8a-e61c-6bd5-7f176a974aa4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Two books are recommended but not required for this class.
@@ -27,7 +32,7 @@ Fisher, Sir Ronald A. "Scientific Thought and the Refinement of Human Reasoning.
 
 Gigerenzer, Gerd. "Mindless Statistics." _Journal of Socio-Economics_ 33 (2004): 587-606.
 
-Gossett, William Sealy (aka "Student"). "The Probable Error of a Mean." _Biometrika_ 6, no. 1 (1908): 1-25. ({{< resource_link 1dabbcb2-c2fa-46e6-7fb3-655a35ec11fc "PDF" >}})
+Gossett, William Sealy (aka "Student"). "The Probable Error of a Mean." _Biometrika_ 6, no. 1 (1908): 1-25. ({{% resource_link 1dabbcb2-c2fa-46e6-7fb3-655a35ec11fc "PDF" %}})
 
 Weibull, Waloddi. "A Statistical Distribution Function of Wide Applicability." _Journal of Applied Mechanics_ 18, no. 3 (1951): 293-297.
 

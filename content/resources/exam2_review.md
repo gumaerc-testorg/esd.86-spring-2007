@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains slides reviewing material for Exam #2 for the
   course.'
-file: /media/courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/c26e72a41029637b1058b6b18dc30e54_exam2_review.pdf
+file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/c26e72a41029637b1058b6b18dc30e54_exam2_review.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
@@ -13,4 +13,10 @@ parent_uid: c5bfc032-00bd-3507-bf9c-ba6de01785bc
 resourcetype: Document
 title: exam2_review.pdf
 uid: c26e72a4-1029-637b-1058-b6b18dc30e54
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+This resource contains slides reviewing material for Exam #2 for the course.
+
