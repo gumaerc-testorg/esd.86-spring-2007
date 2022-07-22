@@ -6,6 +6,7 @@ file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spri
 file_type: application/msword
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource is a Microsoft Excel tool which creates normally distributed samples and makes normal probability plots.
-

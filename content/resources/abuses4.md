@@ -7,6 +7,7 @@ file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spri
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains an example of student work: a contest winner for "worst use, misuse or abuse of statistics and probabilistic reasoning in the media." (Courtesy of Damien Bador. Used with permission.)
-

@@ -6,6 +6,7 @@ file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spri
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains recitation notes on the Bernoulli distribution, the binomial distribution, and the geometric distribution.
-

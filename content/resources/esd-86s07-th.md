@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: Photo of many cars at night stuck on a highway in Bangkok.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: esd-86s07-th.jpg
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 New image Upload
-

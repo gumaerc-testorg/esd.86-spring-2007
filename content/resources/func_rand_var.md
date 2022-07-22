@@ -6,6 +6,7 @@ file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spri
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: func_rand_var.m
 uid: c0825008-34bc-1012-e273-8eaadc469ed5
 ---
 This resource is a MATLAB file that illustrates how a function of a random variable might behave.
-
