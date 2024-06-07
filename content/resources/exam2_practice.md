@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains a practice exam.
 file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/71393387a10e36dc32c510f5a7f250f6_exam2_practice.pdf
+file_size: 84942
 file_type: application/pdf
 learning_resource_types:
 - Exams

@@ -5,6 +5,7 @@ description: 'This resource contains an example of student work: a contest winne
   media." Original article: Drew, Christopher. "Lower Voter Turnout is Seen in States
   that Require ID." New York Times, February 21, 2007.'
 file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/6b57da884c269b9d666a046ba9543285_abuses5.pdf
+file_size: 21228
 file_type: application/pdf
 learning_resource_types:
 - Assignments

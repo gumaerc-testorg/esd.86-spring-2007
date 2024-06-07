@@ -5,6 +5,7 @@ description: 'This resource contains an example of student work: a winner of the
   in the media." Original article: Farley, Maggie. "U.S., Britain Fare Poorly in Children
   Survey." LA Times, February 15, 2007.'
 file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/579abd23523f7740ae578da5864a254b_abuses2.pdf
+file_size: 21118
 file_type: application/pdf
 learning_resource_types:
 - Assignments
