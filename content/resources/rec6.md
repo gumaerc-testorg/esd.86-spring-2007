@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains recitation notes.
 file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/71fd917c457e0fe97cddc02831a33829_rec6.pdf
+file_size: 134958
 file_type: application/pdf
 learning_resource_types:
 - Recitations
