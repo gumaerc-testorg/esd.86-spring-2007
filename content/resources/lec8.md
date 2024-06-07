@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains lecture slides on Markov processes and their application
   to queuing.
 file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/0565f132e474fba29bbf61e88252fa78_lec8.pdf
+file_size: 640329
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

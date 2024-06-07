@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains lecture slides on the pedestrian crossing problem.
 file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/8e34259fbfb521613d124b4b5eca2802_lec4.pdf
+file_size: 73844
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
