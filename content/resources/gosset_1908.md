@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains an assigned reading: Gossett, William Sealy (aka
   "Student"). "The Probable Error of a Mean." Biometrika 6, no. 1 (1908): 1-25.'
-file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/1dabbcb2c2fa46e67fb3655a35ec11fc_gosset_1908.pdf
+file: /ol-ocw-studio-app/courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/1dabbcb2c2fa46e67fb3655a35ec11fc_gosset_1908.pdf
 file_size: 936325
 file_type: application/pdf
 learning_resource_types:
