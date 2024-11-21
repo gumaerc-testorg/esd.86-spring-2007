@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture slides on the queue inference engine and
   the psychology of queuing.
-file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/992dfd57bc582815650f493f72c8d0cf_lec12a.pdf
+file: /ol-ocw-studio-app/courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/992dfd57bc582815650f493f72c8d0cf_lec12a.pdf
 file_size: 116944
 file_type: application/pdf
 learning_resource_types:

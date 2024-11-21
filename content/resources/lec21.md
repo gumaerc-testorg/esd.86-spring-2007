@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains lecture slides on the design of computer experiments.
-file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/3855fa4fbdb5cbdc59f7ac7348a38fa7_lec21.pdf
+file: /ol-ocw-studio-app/courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/3855fa4fbdb5cbdc59f7ac7348a38fa7_lec21.pdf
 file_size: 371757
 file_type: application/pdf
 learning_resource_types:
