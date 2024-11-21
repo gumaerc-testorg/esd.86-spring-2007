@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a MATLAB file with a simulation of the Weird country,
   in which people giving birth stop when they have their first girl.
-file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/18ca7a6e62bd62b0d9127e85f6ea9018_weird_country3.m
+file: /ol-ocw-studio-app/courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/18ca7a6e62bd62b0d9127e85f6ea9018_weird_country3.m
 file_size: 432
 file_type: text/plain
 learning_resource_types:
