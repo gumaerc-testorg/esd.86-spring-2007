@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on the derivation of F dist.
-file: /ol-ocw-studio-app/courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/025b6f8a95eaf9fbcd2462fa28249890_fdist_derivation.pdf
+file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/025b6f8a95eaf9fbcd2462fa28249890_fdist_derivation.pdf
 file_size: 48734
 file_type: application/pdf
 learning_resource_types:

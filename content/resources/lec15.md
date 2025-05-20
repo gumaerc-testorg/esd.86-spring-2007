@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture slides on descriptive statistics and statistical
   graphics.
-file: /ol-ocw-studio-app/courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/cbd2e298b28c48e248fbf3df352bca44_lec15.pdf
+file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/cbd2e298b28c48e248fbf3df352bca44_lec15.pdf
 file_size: 1141319
 file_type: application/pdf
 learning_resource_types:

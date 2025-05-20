@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains slides reviewing material for Exam #2 for the
   course.'
-file: /ol-ocw-studio-app/courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/c26e72a41029637b1058b6b18dc30e54_exam2_review.pdf
+file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/c26e72a41029637b1058b6b18dc30e54_exam2_review.pdf
 file_size: 596510
 file_type: application/pdf
 learning_resource_types:

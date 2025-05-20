@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains lecture slides on queueing and transitions: sampling
   from distributions, Gauss.'
-file: /ol-ocw-studio-app/courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/c659378c9a3fc8c68ce342ad52b31d6c_lec10.pdf
+file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/c659378c9a3fc8c68ce342ad52b31d6c_lec10.pdf
 file_size: 285190
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture slides on the Weibull distribution and
   parameter estimation.
-file: /ol-ocw-studio-app/courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/de400dbdd977702963bbbe71209a7920_lec13.pdf
+file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/de400dbdd977702963bbbe71209a7920_lec13.pdf
 file_size: 378277
 file_type: application/pdf
 learning_resource_types:

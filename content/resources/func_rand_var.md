@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a MATLAB file that illustrates how a function of a random
   variable might behave.
-file: /ol-ocw-studio-app/courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/c082500834bc1012e2738eaadc469ed5_func_rand_var.m
+file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/c082500834bc1012e2738eaadc469ed5_func_rand_var.m
 file_size: 527
 file_type: text/plain
 learning_resource_types:
