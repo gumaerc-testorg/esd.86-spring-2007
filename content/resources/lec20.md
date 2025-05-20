@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture slides on the design of experiments, part
   2.
-file: /ol-ocw-studio-app/courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/ac00ac5922ad6b6916623f857e590803_lec20.pdf
+file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/ac00ac5922ad6b6916623f857e590803_lec20.pdf
 file_size: 376115
 file_type: application/pdf
 learning_resource_types:

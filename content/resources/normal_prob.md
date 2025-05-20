@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a Microsoft Excel tool which creates normally distributed
   samples and makes normal probability plots.
-file: /ol-ocw-studio-app/courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/bfd81bf09c6a9eda36fcd982dfeed6c1_normal_prob.xls
+file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/bfd81bf09c6a9eda36fcd982dfeed6c1_normal_prob.xls
 file_size: 17408
 file_type: application/msword
 learning_resource_types:

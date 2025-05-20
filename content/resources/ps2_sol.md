@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions to a problem set.
-file: /ol-ocw-studio-app/courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/92cceb56efea33f7636bb12eddcd2122_ps2_sol.pdf
+file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/92cceb56efea33f7636bb12eddcd2122_ps2_sol.pdf
 file_size: 374610
 file_type: application/pdf
 learning_resource_types:

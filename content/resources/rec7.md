@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains recitation notes.
-file: /ol-ocw-studio-app/courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/3f91d73d02b200f2b19ada0b3bcfe528_rec7.pdf
+file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/3f91d73d02b200f2b19ada0b3bcfe528_rec7.pdf
 file_size: 96155
 file_type: application/pdf
 learning_resource_types:
