@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains lecture slides on the Monte Hall three door problem.
-file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/8dd2aa2c0c3ec45ad153d5efeb68097f_lec1_3doors.pdf
+file: /ol-ocw-studio-app/courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/8dd2aa2c0c3ec45ad153d5efeb68097f_lec1_3doors.pdf
 file_size: 22703
 file_type: application/pdf
 learning_resource_types:

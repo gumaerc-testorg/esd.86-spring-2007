@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/02269d0b9c571d9db96140d502d30986_esd-86s07-th.jpg
+file: /ol-ocw-studio-app/courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/02269d0b9c571d9db96140d502d30986_esd-86s07-th.jpg
 file_size: 13374
 file_type: image/jpeg
 image_metadata:
