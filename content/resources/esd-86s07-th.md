@@ -7,7 +7,8 @@ file_type: image/jpeg
 image_metadata:
   caption: Sitting in traffic may be a fact of life in Bangkok and many other cities,
     but efficient queueing techniques discussed in this class can improve the efficiency
-    of many lines in which we wait. (Photo courtesy of [\*keng](http://www.flickr.com/photos/kengz/67187556/).)
+    of many lines in which we wait. (Photo courtesy of {{% resource_link "bd2c34e3-5775-45bc-a98e-6c2c718b3ce3"
+    "\*keng" %}}.)
   credit: ''
   image-alt: Photo of many cars at night stuck on a highway in Bangkok.
 learning_resource_types: []
